@@ -1,6 +1,12 @@
 # goodcabs_transportation_
 # GoodCabs Project: Comprehensive Dashboard Analysis
 
+## Power BI Dashboard
+You can view the interactive **Power BI Dashboard** for the GoodCabs project by clicking the link below:
+
+[View GoodCabs Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmNiOTAyY2YtMGNiOC00Y2I0LWJmM2ItZWI1OTcwOTY5MDMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
 ## Project Overview
 The **GoodCabs Project** involves creating a **Power BI Dashboard** to analyze and visualize operational, financial, and customer-related data for GoodCabs. This project aims to provide insights into the following areas:
 
@@ -86,5 +92,5 @@ The **GoodCabs Project** involves creating a **Power BI Dashboard** to analyze a
 
 ## Contact Information
 - **Nandhini Srinivasan**  
-- **Email:** [Your Email]  
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** [nandhini.s0622@gmail.com]  
+- **LinkedIn:** [www.linkedin.com/in/nandhini-s9]
