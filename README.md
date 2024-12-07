@@ -7,7 +7,7 @@ The **GoodCabs Project** involves creating a **Power BI Dashboard** to analyze a
 - **City-Level Trip & Fare Summary**
 - **Target Performance Analysis**
 - **Passenger Analysis**
-- **Revenue and Ratings**
+- **Insights**
 
 ## Objectives
 1. **Improve Business Visibility:** Provide a comprehensive overview of daily operations.
