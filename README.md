@@ -31,18 +31,23 @@ The **GoodCabs Project** involves creating a **Power BI Dashboard** to analyze a
 1. **City-Level Trip & Fare Summary**
    - **Key Metrics:** Total Trips, Fare Amount, Fare Per Trip
    - **Insights:** Top-performing cities, busiest hours.
+![GoodCabs Screenshot](https://github.com/nandhini-srinivasan/goodcabs_transportation_/blob/main/Screenshot%202024-12-07%20170111.png?raw=true)
 
 2. **Target Performance Analysis**
    - **Key Metrics:** Percentage of target progress
    - **Insights:** Areas of underperformance and corrective actions.
+   - ![GoodCabs Screenshot](https://github.com/nandhini-srinivasan/goodcabs_transportation_/blob/main/Screenshot%202024-12-07%20203027.png?raw=true)
+
 
 3. **Passenger Analysis**
    - **Key Metrics:** Total Passengers, Customer Segmentation, Usage Frequency
    - **Insights:** High-impact customer segments, their contribution to revenue.
 
-4. **Revenue and Ratings**
-   - **Key Metrics:** Total Revenue, Rating Trends, Revenue by City
+![GoodCabs Screenshot](https://github.com/nandhini-srinivasan/goodcabs_transportation_/blob/main/Screenshot%202024-12-07%20203003.png?raw=true)
+4. **insights**
+   
    - **Insights:** Correlation between high revenue and positive ratings.
+![GoodCabs Screenshot](https://github.com/nandhini-srinivasan/goodcabs_transportation_/blob/main/Screenshot%202024-12-07%20203037.png?raw=true)
 
 ## Tools & Techniques Used
 - **Tools:**
