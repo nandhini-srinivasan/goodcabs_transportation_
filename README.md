@@ -31,7 +31,7 @@ The **GoodCabs Project** involves creating a **Power BI Dashboard** to analyze a
 1. **City-Level Trip & Fare Summary**
    - **Key Metrics:** Total Trips, Fare Amount, Fare Per Trip
    - **Insights:** Top-performing cities, busiest hours.
-
+Screenshot 2024-12-07 170111.png
 2. **Target Performance Analysis**
    - **Key Metrics:** Percentage of target progress
    - **Insights:** Areas of underperformance and corrective actions.
