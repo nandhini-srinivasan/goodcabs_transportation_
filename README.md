@@ -39,19 +39,19 @@ The **GoodCabs Project** involves creating a **Power BI Dashboard** to analyze a
 1. **City-Level Trip & Fare Summary**
    - **Key Metrics:** Total Trips, Fare Amount, Fare Per Trip
    - **Insights:** Top-performing cities, busiest hours.
-![GoodCabs Screenshot](https://github.com/nandhini-srinivasan/goodcabs_transportation_/blob/main/Screenshot%202024-12-07%20170111.png?raw=true)
+![GoodCabs Screenshot](https://github.com/nandhini-srinivasan/goodcabs_transportation_/blob/main/Screenshot%202025-01-02%20151108.png)
 
 2. **Target Performance Analysis**
    - **Key Metrics:** Percentage of target progress
    - **Insights:** Areas of underperformance and corrective actions.
-   - ![GoodCabs Screenshot](https://github.com/nandhini-srinivasan/goodcabs_transportation_/blob/main/Screenshot%202024-12-07%20203027.png?raw=true)
+   - ![GoodCabs Screenshot](https://github.com/nandhini-srinivasan/goodcabs_transportation_/blob/main/Screenshot%202025-01-02%20151136.png)
 
 
 3. **Passenger Analysis**
    - **Key Metrics:** Total Passengers, Customer Segmentation, Usage Frequency
    - **Insights:** High-impact customer segments, their contribution to revenue.
 
-![GoodCabs Screenshot](https://github.com/nandhini-srinivasan/goodcabs_transportation_/blob/main/Screenshot%202024-12-07%20203003.png?raw=true)
+![GoodCabs Screenshot](https://github.com/nandhini-srinivasan/goodcabs_transportation_/blob/main/Screenshot%202025-01-02%20151124.png)
 4. **insights**
    
    - **Insights:** Correlation between high revenue and positive ratings.
