@@ -18,6 +18,7 @@ GROUP BY
     dc.city_name;
 
 
+
 -- Monthly City-Level Trips Target Performance Report -This query compares actual trips against target trips by month and city and calculates the performance status and percentage difference. --
 
 SELECT 
